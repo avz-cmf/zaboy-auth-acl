@@ -4,6 +4,9 @@
 composer.phar
 vendor/
 
+# NetBeans
+nbproject
+
 # Local configs
 config/autoload/*.local.php
 
